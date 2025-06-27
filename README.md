@@ -6,4 +6,4 @@ Search all Git repositories in the directory, and generate a `git_projects_repor
 
 ### Run:
 
-`go run main.go "/path/to/directory";`
+`go run main.go --directory="/path/to/directory";`
